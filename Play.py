@@ -1,2 +1,2 @@
 import Play
-Play.mr_rana
+Play.mr_rana()
